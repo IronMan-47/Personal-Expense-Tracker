@@ -14,17 +14,17 @@ From my experience there is no lightweight desktop tool, for users who spend mos
 2. Scope of the Project
 The scope of the project is to build a Desktop Console Application using Python that works as a diary. The system will use the ideas of data management (CRUD. Create, Read, Update, Delete). The system will also use file persistence.
 
-In-Scope:
-Developing a Command Line Interface (CLI) for user interaction.
-Implementing a robust backend using Python’s standard libraries.
-I have found that using the CSV (Comma Separated Values) files, for data storage is reliable. The CSV (Comma Separated Values) files are simple.
-Providing basic analytical capabilities (summation and categorization).
+    In-Scope:
+    Developing a Command Line Interface (CLI) for user interaction.
+    Implementing a robust backend using Python’s standard libraries.
+    I have found that using the CSV (Comma Separated Values) files, for data storage is reliable. The CSV (Comma Separated Values) files are simple.
+    Providing basic analytical capabilities (summation and categorization).
 
-Out-of-Scope (for this version):
-Graphical User Interface (GUI) elements (buttons/windows).
-Integration with online banking APIs or cloud storage.
-I notice that the system only supports a user. Multi‑user authentication is unnecessary.
-Multi-currency support.
+    Out-of-Scope (for this version):
+    Graphical User Interface (GUI) elements (buttons/windows).
+    Integration with online banking APIs or cloud storage.
+    I notice that the system only supports a user. Multi‑user authentication is unnecessary.
+    Multi-currency support.
 
 3. Target Users
 The main audience, for this software includes:
