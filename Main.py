@@ -9,7 +9,13 @@ if __name__ == '__main__':
                     i = int(k) + 1
             except:
                 pass
-while True:
+print('Hi There! This is a Personal Expense Tracker')
+print("Enjoy all it Features")
+print('Created by Adit Prasad')
+Q=0
+while Q>=0:
+    if not(Q==0):
+        print('What Next Would You like to do:')
     print('1.Add New Expense')
     print('2.View all Expenses')
     print('3.Search Expense')
@@ -54,3 +60,4 @@ while True:
         break
     else:
         print('Invaild Choice')
+    Q+=1
