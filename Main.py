@@ -15,6 +15,8 @@ print('Created by Adit Prasad')
 Q=0
 while Q>=0:
     if not(Q==0):
+        print('----------------------------------------------------------------------------------------------------------------------------------------')
+        print(' ')
         print('What Next Would You like to do:')
     print('1.Add New Expense')
     print('2.View all Expenses')
@@ -61,3 +63,4 @@ while Q>=0:
     else:
         print('Invaild Choice')
     Q+=1
+
